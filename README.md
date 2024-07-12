@@ -1,5 +1,5 @@
-## 농장 👋
-공룡이 추가되는 그 날까지...
+## 농장 🌱
+공룡이 추가되는 그 날까지...   
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/JsooAh"
