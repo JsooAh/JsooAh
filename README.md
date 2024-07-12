@@ -1,11 +1,11 @@
-## Hi there 👋
-
+## 농장 👋
+공룡이 추가되는 그 날까지...
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/JsooAh"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/JsooAh"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!--
